@@ -54,7 +54,7 @@ okt 2003 - juni 2013
 ## Opleidingen
 
 aug 2014 - maart 2016
-:   **Applicatie ontwikkelaar** niveau 4 (Nova College) in Haarlem.
+:   **Applicatie ontwikkelaar** niveau 4 (Nova College) in Haarlem. (diploma behaald)
 
 2005 - 2006
 :   **Assistent Mobiliteitsbranche** AMB (Horizon College) in Heerhugowaard.
