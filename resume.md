@@ -13,17 +13,11 @@
 
 ## Profiel
 
-Passionate developer that always feels the responsibility to deliver the best
-possible work within factors such as requirements, time, budget and re-usable
-code. I am a true perfectionist that is realistic by basing my decisions on
-these multiple factors. I like to see every project as an opportunity to
-improve both my own and the organization's knowledge. I am known for undeniable focus and clear
-communication.
+When I am working on projects I take factors into account such as budget, requirements and time. Re-usable code is high on my priority list within those boundaries. I feel responsible to deliver the best possible product a client can have. I am not scared of direct contact with the client by phone, email or a meeting. Every project is an opportunity for me to improve my knowledge and that of the organization. I am known for my undeniable focus and loyalty towards the organisation.
 
-As a developer I do not code without *git*. My favorite development environment is on MacOS with VS Code and iTerm2. I prefer FireFox as my favorite browser and I enjoy tools such as BrowserStack and Litmus. I'm a big fan of Bootstrap 5 and Webpack.
+As a developer I do not code without **git**. My favorite development environment is on MacOS with VS Code and iTerm2. My preferred browser is FireFox and I enjoy tools such as BrowserStack and Litmus. I’m a big fan of Bootstrap 5 and Webpack.
 
-I have the knowledge to plan, deliver and maintain an entire project with the
-help of a creative webdesigner and passionate back-end developer by my side.
+With a creative webdesigner and a passionate back-end developer by my side I can make anything possible.
 
 -------------------------------------------------------------------------------
 
