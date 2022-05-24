@@ -15,7 +15,7 @@
 
 When I am working on projects I take factors into account such as budget, requirements and time. Re-usable code is high on my priority list within those boundaries. I feel responsible to deliver the best possible product a client can have. I am not scared of direct contact with the client by phone, email or a meeting. Every project is an opportunity for me to improve my knowledge and that of the organization. I am known for my undeniable focus and loyalty towards the organisation.
 
-As a developer I do not code without **git**. My favorite development environment is on MacOS with VS Code and iTerm2. My preferred browser is FireFox and I enjoy tools such as BrowserStack and Litmus. I’m a big fan of Bootstrap 5 and Webpack.
+As a developer I do not code without **git**. My favorite development environment is on MacOS with VS Code and iTerm2. As my browser I prefer FireFox and I enjoy tools such as BrowserStack and Litmus. I’m a big fan of Bootstrap 5 and Webpack.
 
 With a creative webdesigner and a passionate back-end developer by my side I can make anything possible.
 
