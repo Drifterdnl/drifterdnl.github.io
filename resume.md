@@ -60,7 +60,7 @@ aug 2014 - maart 2016
 
 ## Stages
 
-aug 2014 - feb 2016
+aug 2015 - feb 2016
 :   **Uniserver Internet BV** in Alkmaar
 
 2005 - 2006
